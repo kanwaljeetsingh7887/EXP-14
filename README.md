@@ -23,7 +23,7 @@ Multilevel Inheritance: A derived class is derived from another derived class.
 
 Hierarchical Inheritance: Multiple derived classes inherit from a single base class.
 ## Code: 14A
-```
+```cpp
 // NAME - Kanwaljeet singh
 // PRN- 23070123124
 // EXPERIMENT - 14(A) 
