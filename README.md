@@ -56,7 +56,7 @@ int main()
 } 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/52350e0d-7178-40c7-8783-0495033d26de)
+![image](https://github.com/user-attachments/assets/645b2de2-f920-4da7-b8c9-4fd8603ae520)
 
 
 
@@ -108,7 +108,8 @@ int main(){
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/4c027caf-32d0-4d1e-a8e0-fec0ed93cb46)
+![image](https://github.com/user-attachments/assets/b37e7768-269e-4fa5-8176-61f2c1750f4e)
+
 
 
 
@@ -176,7 +177,8 @@ int main()
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/2cae08d1-5e73-4964-99a3-f1bedbc3816a)
+![image](https://github.com/user-attachments/assets/530e6991-ca5f-4da2-ae01-a37a21403661)
+
 
 ## Code: 14D
 ```
@@ -217,7 +219,8 @@ int main()
 }
 ```                  
 ## Output:
-![image](https://github.com/user-attachments/assets/1af202f0-7806-4d4a-95fe-c4010721a666)
+![image](https://github.com/user-attachments/assets/aec156e2-2790-430b-83ad-0846048d6972)
+
 
 
 ### Conclusion:
