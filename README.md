@@ -7,9 +7,21 @@
 `Microsoft VSCode`
 
 ## Theory:
-Constructor Overloading in C++ means that we have more than one constructor ina class with the same name, as long as each have a different list of arguments. A constructor is called depending upon the number and type of arguments passed.
+Inheritance in C++ is a fundamental concept of object-oriented programming (OOP) that allows a class (called the derived class or child class) to inherit properties and behaviors (data members and member functions) from another class (called the base class or parent class). This promotes code reusability and establishes a relationship between classes.
 
-While creating the object, arguments must be passed to let compiler know, which constructor needs to be called.
+Key Concepts of Inheritance:
+Base Class: The class whose properties and methods are inherited by another class. It is sometimes referred to as the parent or super class.
+
+Derived Class: The class that inherits the properties and methods from the base class. It can also have additional properties and methods of its own.
+
+Types of Inheritance:
+Single Inheritance: A derived class inherits from only one base class.
+
+Multiple Inheritance: A derived class inherits from more than one base class.
+
+Multilevel Inheritance: A derived class is derived from another derived class.
+
+Hierarchical Inheritance: Multiple derived classes inherit from a single base class.
 ## Code: 14A
 ```
 // NAME - Kanwaljeet singh
